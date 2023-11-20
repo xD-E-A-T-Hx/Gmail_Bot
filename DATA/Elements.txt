@@ -1,0 +1,48 @@
+Create_Account_Element:
+//button[@class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 FliLIb uRo0Xe TrZEUc Xf9GD']
+//*[@class='JnOM6e TrZEUc kTeh9 KXbQ4b']
+
+For_My_Personal_Use_Element:
+//span[@class='VfPpkd-StrnGf-rymPhb-b9t22c']
+
+First_Name_Element:
+//*[@name='firstName']
+
+Surname_Element:
+//*[@name='lastName']
+
+Username_Element:
+//*[@name='Username']
+
+Password_Element:
+//*[@name='Passwd']
+
+Confirm_Password_Element:
+//*[@name='PasswdAgain']
+
+Next_Element:
+//button[@class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b']
+//button[contains(text(),'Skip')]
+//button[contains(text(),'Next')]
+//button[contains(text(),'I agree')]
+
+Phone_Number_Element:
+//*[@id='phoneNumberId']
+
+OTP_Element:
+//input[@name="code"]
+
+Birthday_Day_Element:
+//input[@name="day"]
+
+Birthday_Month_Element:
+//select[@id="month"]
+
+Birthday_Year_Element:
+//input[@name="year"]
+
+Gender_Element:
+//select[@id="gender"]
+
+Username_Select_Element:
+//*[@aria-posinset="3"]
